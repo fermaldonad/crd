@@ -1,2 +1,0 @@
-# crd
-crud  de datos
